@@ -4,7 +4,7 @@ description: The individual rights required by this personal code of ethic.
 
 # Rights
 
-In accordance with the Universal Declaration of Human Rights:
+In accordance with the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights):
 
 1. Anyone has the right to follow this personal code of ethics as long as one abides to the rule of law.
 2. No one shall ever be forced to follow this personal code of ethics, but everyone is equal before the law.
