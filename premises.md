@@ -1,5 +1,5 @@
 ---
-description: The premises that serve as the foundation for this personal code of ethic.
+description: The premises that are the foundation for this personal code of ethic.
 ---
 
 # Premises

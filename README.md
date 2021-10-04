@@ -6,7 +6,7 @@ description: A personal code of ethic free to be adopted by anyone.
 
 ## [Premises](premises.md)
 
-The premises that serve as the foundation for this personal code of ethic.
+The premises that are the foundation for this personal code of ethic.
 
 ## [Oath](oath.md)
 
