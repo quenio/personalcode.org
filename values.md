@@ -16,7 +16,7 @@ Accept reason as one's only:
 
 Recognize that:
 
-1. being productive is the only process that one can sustain one's life; 
+1. being productive is the only way that one can sustain one's life; 
 2. one has to be constantly working to improve improve one's life.
 
 ## Self-Esteem
