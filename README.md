@@ -16,7 +16,7 @@ The oath proclaimed by those who follow this personal code of ethic.
 
 The individual rights required by this personal code of ethic.
 
-## [Values](./#undefined)
+## [Values](values.md)
 
 What one continuously acts to gain and keep in one's life.
 
