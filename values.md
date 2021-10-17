@@ -25,5 +25,5 @@ Understand that:
 
 1. one's life is one's most precious possession;
 2. one is capable of improving one's life by using rationality and focus;
-3. one is _not_ ominiscient nor infalliable, but one can learn from errors, define goals and achieve them.
+3. one is _not_ ominiscient nor infallible, but one can learn from errors, define goals and achieve them.
 4. should be proud of one's achievements.
